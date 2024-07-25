@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Prevent scrolling on body */
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.left-section {
+    width: 25%;
+    background-color: #2e2e2e;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    overflow: hidden; /* Ensure it does not scroll */
+}
+
+.profile-picture-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 2px solid #f0f0f0;
+}
+
+.profile-picture {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.name-location-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.social-icons {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    bottom: 20px;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.social-icons a {
+    color: rgb(31, 117, 145);
+    font-size: 1.5rem;
+}
+
+.right-section {
+    width: 75%;
+    margin-left: 25%; /* Ensure it starts after the left section */
+    padding: 40px 60px;
+    height: 100vh;
+    overflow-y: auto; /* Make the right section scrollable */
+    background-color: #252525;
+    color: #f0f0f0;
+    border-left: 1px solid #444;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.quote {
+    margin-top: 20px;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+}
+
+.horizontal-line {
+    margin: 30px 0;
+    border: 0;
+    height: 1px;
+    background: #444;
+}
+
+.indented-list {
+    padding-left: 40px; /* Adjust this value to increase or decrease indentation */
+}
+
+.indented-list li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
