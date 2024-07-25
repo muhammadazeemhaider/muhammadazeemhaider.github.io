@@ -19,28 +19,29 @@ body {
     display: flex;
     width: 100%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: #FFF5EE;
+    border-radius: 8px;
+    overflow: hidden;
 }
 
 .left-section {
-    width: 25%;
-    background-color: #2e2e2e;
+    width: 30%;
+    background-color: #FFF5EE;
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: fixed;
-    height: 100%;
-    overflow: hidden; /* Ensure it does not scroll */
+    color: black;
 }
 
 .profile-picture-container {
-    width: 150px;
-    height: 150px;
+    width: 225px;
+    height: 225px;
     border-radius: 50%;
     overflow: hidden;
     margin-top: 30px;
     margin-bottom: 20px;
-    border: 2px solid #f0f0f0;
+    border: 2px solid black;
 }
 
 .profile-picture {
@@ -58,47 +59,63 @@ body {
 
 h1 {
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     font-size: 22px;
     font-weight: bold;
+    font-family: 'Raleway', sans-serif;
 }
 
 p {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 16px;
-    text-align: justify;
+    text-align: left;
+    font-family: 'Lora', serif;
 }
 
 .social-icons {
     display: flex;
     gap: 20px;
-    position: absolute;
-    bottom: 20px;
-    flex-direction: row;
-    align-items: flex-start;
+    margin-top: auto; /* Push the social icons to the bottom */
 }
 
 .social-icons a {
     color: rgb(31, 117, 145);
-    font-size: 1.5rem;
+    font-size: 2.75rem;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: black;
 }
 
 .right-section {
-    width: 75%;
-    margin-left: 25%; /* Ensure it starts after the left section */
+    width: 70%;
     padding: 40px 60px;
     height: 100vh;
     overflow-y: auto; /* Make the right section scrollable */
-    background-color: #252525;
-    color: #f0f0f0;
+    background-color: #FFF5EE;
+    color: black;
     border-left: 1px solid #444;
 }
 
 h2 {
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 24px;
     font-weight: bold;
+    position: relative;
+    padding-bottom: 10px;
+    display: inline-block; /* Ensure the h2 element is inline-block */
+    font-family: 'Raleway', sans-serif;
+}
+
+h2::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #000; /* Change the color as needed */
+    margin-top: 5px; /* Adjust the margin as needed */
 }
 
 .quote {
@@ -106,6 +123,7 @@ h2 {
     font-size: 18px;
     font-style: italic;
     text-align: center;
+    font-family: 'Lora', serif;
 }
 
 .horizontal-line {
@@ -116,10 +134,21 @@ h2 {
 }
 
 .indented-list {
-    padding-left: 40px; /* Adjust this value to increase or decrease indentation */
+    padding-left: 20px; /* Adjust this value to increase or decrease indentation */
 }
 
 .indented-list li {
     margin-bottom: 10px;
     line-height: 1.6;
+    font-family: 'Lora', serif;
+}
+
+a {
+    color: rgb(31, 117, 145);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: rgb(0, 86, 102);
 }
