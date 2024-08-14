@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Azeem.jpg" alt="Profile Picture" width="250"">
+  <img src="Azeem.jpg" alt="Profile Picture" width="250">
 </p>
 
 ## About me
