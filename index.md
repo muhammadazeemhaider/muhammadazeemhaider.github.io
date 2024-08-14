@@ -1,5 +1,3 @@
-# M. Azeem Haider
-
 <p align="center">
   <img src="Azeem.jpg" alt="Profile Picture" width="150">
 </p>
@@ -35,8 +33,6 @@ When I am not delving into language and its underlying meanings, I enjoy creatin
 ## Teaching
 
 - Teaching Assistant at Habib University for Introduction to Data Analytics (Spring 2024)
-
-## Let's connect!
 
 <p align="center">
   <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
