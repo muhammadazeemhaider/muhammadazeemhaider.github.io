@@ -26,9 +26,9 @@ When I am not delving into language and its underlying meanings, I enjoy creatin
 
 ## Awards and Grants
 
-1. **Recipient of 100% undergraduate merit scholarship (2020-2024)** [Habib University TOPS Scholar](https://habib.edu.pk/admissions/hutops/)
+1. Recipient of 100% undergraduate merit scholarship (2020-2024) [Habib University TOPS Scholar](https://habib.edu.pk/admissions/hutops/)
 
-2. **Recipient of the [Data for Good scholarship](https://www.hertie-school.org/en/study/data-for-good-scholarship)** at Hertie School, Germany, valued at £36,500 (Opted not to accept)
+2. Recipient of the [Data for Good scholarship](https://www.hertie-school.org/en/study/data-for-good-scholarship) at Hertie School, Germany, valued at £36,500 (Opted not to accept)
 
 ## Teaching
 
