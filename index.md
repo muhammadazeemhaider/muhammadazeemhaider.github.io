@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="Azeem.jpg" alt="Profile Picture" width="250" style="margin-right: 20px;">
-  <img src="Azeem2.jpeg" alt="Second Picture" width="250" style="margin-left: 20px;">
+  <img src="Azeem.jpg" alt="Profile Picture" width="200" style="margin-right: 20px;">
 </p>
 
 ## About me
