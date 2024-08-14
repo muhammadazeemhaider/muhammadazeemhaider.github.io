@@ -34,6 +34,8 @@ When I am not delving into language and its underlying meanings, I enjoy creatin
 
 - Teaching Assistant at Habib University for Introduction to Data Analytics (Spring 2024)
 
+<br><br><br>
+
 <p align="center">
   <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
   <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-blue?logo=linkedin" alt="LinkedIn"></a>
