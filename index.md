@@ -24,6 +24,8 @@ When I am not delving into language and its underlying meanings, I enjoy creatin
 
 1. **Haider, M. A.** & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Evolutionary Algorithm-Based Composition of Classical South Asian Music using Tabla." *[Under Review]*.
 
+2. Hussain, S. M. & **Haider, M. A.** & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." *International Bhurban Conference of Applied Science and Technology*. Paper will be published on IEEE Xplore. [[Paper]](https://drive.google.com/file/d/1jjZel8WgHdKBBNHmhf3zk_vZT2q8ZVp_/view?usp=sharing)
+
 ## Awards and Grants
 
 1. Recipient of 100% undergraduate merit scholarship (2020-2024) [Habib University TOPS Scholar](https://habib.edu.pk/admissions/hutops/)
