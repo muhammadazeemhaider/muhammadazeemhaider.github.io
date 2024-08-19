@@ -18,13 +18,12 @@ When I am not delving into language and its underlying meanings, I enjoy creatin
 
 1. **Haider, M. A.** & Yousuf, A. A. & Haider, I. A. & Mahmood, S. (May, 2024). "Forecasting Electricity for Pakistan." *Habib University Dhanani Undergraduate Research Symposium*. [[Poster]](https://drive.google.com/file/d/1_Skc__z9kV9kZbt7JCCWqxnovz6k2ltD/view?usp=sharing)
 
-2. Hussain, S. M. & **Haider, M. A.** & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." *International Bhurban Conference of Applied Science and Technology*. [[Paper]](https://drive.google.com/file/d/1jjZel8WgHdKBBNHmhf3zk_vZT2q8ZVp_/view?usp=sharing)
+2. Hussain, S. M. & **Haider, M. A.** & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." *International Bhurban Conference of Applied Science and Technology*. Paper will be published on IEEE Xplore. [[Paper]](https://drive.google.com/file/d/1jjZel8WgHdKBBNHmhf3zk_vZT2q8ZVp_/view?usp=sharing)
+
 
 ## Papers
 
 1. **Haider, M. A.** & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Evolutionary Algorithm-Based Composition of Classical South Asian Music using Tabla." *[Under Review]*.
-
-2. Hussain, S. M. & **Haider, M. A.** & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." *International Bhurban Conference of Applied Science and Technology*. Paper will be published on IEEE Xplore. [[Paper]](https://drive.google.com/file/d/1jjZel8WgHdKBBNHmhf3zk_vZT2q8ZVp_/view?usp=sharing)
 
 ## Awards and Grants
 
