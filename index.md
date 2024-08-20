@@ -15,7 +15,7 @@ p, h2 {
     <p>Hi, I'm Azeem. I am a computer scientist who enjoys researching how humans operate when it comes to language and their cognitive abilities. I graduated from Habib University in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research currently focuses on cognition and linguistics, more specifically, how visual context plays a role in the way people perceive concepts.</p>
   </div>
   <div style="width: 35%;">
-    <img src="Azeem.jpg" alt="Profile Picture" width="250" style="float: right;">
+    <img src="Azeem.jpg" width="250" style="float: right;">
   </div>
 </div>
 
