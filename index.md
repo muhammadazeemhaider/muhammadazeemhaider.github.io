@@ -4,6 +4,11 @@ body {
   color: white;
 }
 
+<style>
+body > h1:first-child {
+  display: none;
+}
+
 p, h2 {
   text-align: justify;
 }
