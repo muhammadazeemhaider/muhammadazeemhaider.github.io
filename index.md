@@ -1,11 +1,9 @@
 <style>
 body {
-  background-color: #808080;
-  color: white;
+  background-color: white;
+  color: black;
 }
 </style>
-
-## Muhammad Azeem Haider
 
 <p align="center">
   <img src="Azeem.jpg" alt="Profile Picture" width="250">
