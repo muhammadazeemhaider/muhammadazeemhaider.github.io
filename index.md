@@ -7,6 +7,11 @@ body {
 h2 {
   text-align: justify;
 }
+
+img {
+  border: 2px solid black; /* Adds a black border around the image */
+}
+
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
