@@ -1,10 +1,10 @@
 <style>
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
-p, h2 {
+h2 {
   text-align: justify;
 }
 </style>
