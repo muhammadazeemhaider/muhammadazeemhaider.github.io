@@ -23,9 +23,7 @@ h2 {
 <h2>Research Interest</h2>
 <p style="text-align: justify;">My research interests lie in the domains of computational linguistics, semantics, and syntax. Specifically, I want to focus on understanding how language is structured in the brain and syntactically produced in different contexts. I am also interested in language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development. Additionally, I want to explore the syntactic degeneration in multilingual individuals caused by Broca's area aphasia.</p>
 
-<p style="text-align: justify;">Beyond these topics, I am intrigued by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression. I believe this new form of communication has the potential to reflect one's mental well-being and cognitive processes.</p>
-
-<p style="text-align: justify;">When I am not delving into language and its underlying meanings, I enjoy creating visualizations and presenting data in a clear and compelling narrative.</p>
+<p style="text-align: justify;">Beyond these topics, I am intrigued by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression. I believe this new form of communication has the potential to reflect one's mental well-being and cognitive processes. Additionally, I enjoy creating visualizations and presenting data in a clear and compelling narrative.</p>
 
 <h2>Presentations</h2>
 <ol>
