@@ -27,7 +27,7 @@ h2 {
 
 <h2>Publications</h2>
 <ol style="text-align: justify;">
-  <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Evolutionary Algorithm-Based Composition of Classical South Asian Music using Tabla." <strong>[Under Review]</strong>.</li>
+  <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Classical Tabla Music Composition with Evolutionary Algorithms." <strong>[Under Review]</strong>.</li>
 </ol>
 
 <h2>Academic Presentations</h2>
