@@ -13,7 +13,7 @@ h2 {
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 75%;">
     <h2>About Me</h2>
-    <p style="text-align: justify;">Hi, I'm Azeem. I am a computer scientist who enjoys researching how humans operate when it comes to language and their cognitive abilities. I graduated from Habib University in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research currently focuses on cognition and linguistics, more specifically, how visual context plays a role in the way people perceive concepts.</p>
+    <p style="text-align: justify;">Hi, I'm Azeem. I am a computer scientist with a passion for understanding how humans process language and how developing economies function. I graduated from Habib University in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My current research focuses on the application of Artificial Intelligence in healthcare, particularly in addressing language disorders. I also have a deep interest in studying the economics of developing countries and the factors that hinder their progress.</p>
   </div>
   <div style="width: 35%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black;" alt="Azeem's profile picture">
@@ -21,13 +21,15 @@ h2 {
 </div>
 
 <h2>Research Interest</h2>
-<p style="text-align: justify;">My research interests lie in the domains of computational linguistics, semantics, and syntax. Specifically, I want to focus on understanding how language is structured in the brain and syntactically produced in different contexts. I am also interested in language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development. Additionally, I want to explore the syntactic degeneration in multilingual individuals caused by Broca's area aphasia.</p>
+<p style="text-align: justify;">My research interests lie in the domain of computational linguistics and its impact on healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development which is hindered or delayed at times. Additionally, I want to explore the syntactic degeneration in individuals caused by language disorders.</p>
 
-<p style="text-align: justify;">Beyond these topics, I am intrigued by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression. I believe this new form of communication has the potential to reflect one's mental well-being and cognitive processes. Additionally, I enjoy creating visualizations and presenting data in a clear and compelling narrative.</p>
+<p style="text-align: justify;">Additionally, I am intrigued by the health and education economics aspects of development economics, particularly with regard to developing countries. I aim to explore how improvements in healthcare and education can directly impact a nation's economic performance. Coming from Pakistan, where both the health and education systems face significant challenges, I have observed firsthand how these deficiencies hinder economic progress. I am particularly interested in understanding how uplifting healthcare and education in developing countries can foster economic growth, reduce poverty, and contribute to human capital development.</p>
+
+<p style="text-align: justify;">Beyond these topics, I am intrigued by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individuals manner of thinking and cognition.</p>
 
 <h2>Publications</h2>
 <ol style="text-align: justify;">
-  <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Classical Tabla Music Composition with Evolutionary Algorithms." <strong>[Under Review]</strong>.</li>
+  <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Classical Tabla Music Composition with Evolutionary Algorithms." <strong>[Under Review at ACM Transactions on Evolutionary Learning and Optimization]</strong>.</li>
 </ol>
 
 <h2>Academic Presentations</h2>
@@ -60,5 +62,5 @@ h2 {
   <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
   <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/muhammadazeemhaider" target="_blank"><img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-black?logo=github" alt="GitHub"></a>
-  <a href="https://drive.google.com/file/d/1oNtSAXRflM3w3z5oduQdvvi6odybxqBO/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-View%20CV-green?logo=googledrive" alt="CV"></a>
+  <a href="https://drive.google.com/file/d/1Lv5QRPL89MjpXNFVjN_4R8hRHCB3VuM_/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-View%20CV-green?logo=googledrive" alt="CV"></a>
 </p>
