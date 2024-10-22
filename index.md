@@ -65,7 +65,12 @@ h2 {
   <li>Teaching Assistant at Habib University for Introduction to Data Analytics (Spring 2024)</li>
 </ul>
 
-<br><br><br>
+<br>
+
+<p align="center">
+Updated on October 22, 2024
+
+<br>
 
 <p align="center">
   <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
