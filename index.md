@@ -29,7 +29,7 @@ h2 {
 
 <h2>Publications</h2>
 
-<h3> Journal Publications </h3>
+<h3> Journal Publication </h3>
 
 <ol style="text-align: justify;">
   <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Classical Tabla Music Composition with Evolutionary Algorithms." <strong>[Under Review at ACM Transactions on Evolutionary Learning and Optimization]</strong>.</li>
