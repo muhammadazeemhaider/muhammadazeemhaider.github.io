@@ -68,13 +68,12 @@ h2 {
 <br>
 
 <p align="center">
-Updated on October 22, 2024
-
-<br>
-
-<p align="center">
   <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
   <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/muhammadazeemhaider" target="_blank"><img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-black?logo=github" alt="GitHub"></a>
   <a href="https://drive.google.com/file/d/1mTg2Bxgr2efGU1DdiVGb1VueLRRvSP3l/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-View%20CV-green?logo=googledrive" alt="CV"></a>
+</p>
+
+<p align="center">
+  <em>Updated on October 22, 2024</em>
 </p>
