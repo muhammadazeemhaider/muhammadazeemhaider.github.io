@@ -8,28 +8,6 @@ h2 {
   text-align: justify;
 }
 
-<button id="dark-mode-toggle" onclick="toggleDarkMode()">🌓 Toggle Dark Mode</button>
-
-<script>
-function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-    localStorage.setItem('dark-mode', 
-        document.body.classList.contains('dark-mode') ? 'enabled' : 'disabled'
-    );
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-    const savedMode = localStorage.getItem('dark-mode');
-    
-    if (savedMode === 'enabled') {
-        document.body.classList.add('dark-mode');
-    } else if (window.matchMedia && 
-               window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark-mode');
-    }
-});
-</script>
-
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
