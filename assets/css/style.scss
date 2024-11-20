@@ -1,0 +1,40 @@
+@import "{{ site.theme }}";
+
+// Light Mode (Default)
+body {
+    background-color: #ffffff;
+    color: #24292e;
+}
+
+// Dark Mode
+body.dark-mode {
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+
+body.dark-mode a {
+    color: #58a6ff;
+}
+
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3 {
+    color: #c9d1d9;
+}
+
+// Dark Mode Toggle Button
+#dark-mode-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #f6f8fa;
+    border: 1px solid #c9d1d9;
+    padding: 8px 12px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+body.dark-mode #dark-mode-toggle {
+    background-color: #21262d;
+    color: #c9d1d9;
+}
