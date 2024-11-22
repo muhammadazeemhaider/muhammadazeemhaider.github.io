@@ -30,7 +30,7 @@
 </div>
 
 <h2>Research Interest</h2>
-<p style="text-align: justify;">My research interests lie in the domain of computational linguistics and its impact on healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed. Additionally, I want to explore syntactic degeneration in individuals caused by language disorders.</p>
+<p style="text-align: justify;">My research interests lie in the domain of Artificial Intelligence and its impact on law, education, and healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed. Additionally, I want to explore syntactic degeneration in individuals caused by language disorders.</p>
 
 <p style="text-align: justify;">Beyond these topics, I am fascinated by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individual's manner of thinking and cognition.</p>
 
@@ -77,10 +77,18 @@
 <br>
 
 <p align="center">
-  <a href="mailto:haiderazeem27@gmail.com"><img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/muhammadazeemhaider" target="_blank"><img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-black?logo=github" alt="GitHub"></a>
-  <a href="https://drive.google.com/file/d/1EMftmGfGzQh7J-Fg0DtQMFqA93ewlBX7/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-View%20CV-green?logo=googledrive" alt="CV"></a>
+  <a href="mailto:haiderazeem27@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/muhammadazeemhaider" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://drive.google.com/file/d/1EMftmGfGzQh7J-Fg0DtQMFqA93ewlBX7/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CV-View%20CV-green?style=flat-square&logo=google-drive&logoColor=white" alt="CV">
+  </a>
 </p>
 
 <p align="center">
