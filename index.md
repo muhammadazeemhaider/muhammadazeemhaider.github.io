@@ -1,7 +1,7 @@
 <style>
   body {
     background-color: black; /* Change this to your desired background color */
-    color: black;
+    color: white;
     font-family: Arial, sans-serif; /* Optional: to set a default font */
   }
 
