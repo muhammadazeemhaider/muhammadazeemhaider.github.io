@@ -1,21 +1,31 @@
 <style>
+  /* Reset default margins */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
   body {
-    background-color: black; /* Change this to your desired background color */
+    background-color: black;
     color: white;
-    font-family: Arial, sans-serif; /* Optional: to set a default font */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
   }
 
   h2 {
     text-align: justify;
+    margin-top: 20px;  /* Add spacing between sections */
   }
 
   a {
-    color: yellow; /* Sets the link text color to yellow */
-    text-decoration: none; /* Removes underlines from links (optional) */
+    color: yellow;
+    text-decoration: none;
   }
 
   a:hover {
-    text-decoration: underline; /* Adds an underline on hover (optional) */
+    text-decoration: underline;
   }
 </style>
 
