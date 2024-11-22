@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #f4f4f4; /* Change this to your desired background color */
+    background-color: black; /* Change this to your desired background color */
     color: black;
     font-family: Arial, sans-serif; /* Optional: to set a default font */
   }
