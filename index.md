@@ -19,7 +19,7 @@
   }
 </style>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 0; padding: 0; border: none;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 75%;">
     <h2>About Me</h2>
     <p style="text-align: justify;">Hi, I'm Azeem. I am a computer scientist with a passion for understanding how humans process language and how developing economies function. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My current research focuses on the application of artificial intelligence in healthcare, particularly in addressing language disorders. I also have a deep interest in studying the economics of developing countries and the factors that hinder their progress.</p>
