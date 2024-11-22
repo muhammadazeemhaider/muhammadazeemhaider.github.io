@@ -47,8 +47,8 @@
 <h3>Peer-Reviewerd Proceedings</h3>
 
 <ol style="text-align: justify;">
-  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. Paper will be published on IEEE Xplore. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a></li>
-  <li>Muhammad Azeem Haider, Ali Asghar Yousuf, Ibrahim Ali Haider, Mohammad Shahid Mehmood. "Short Term Load Forecasting for Legacy Appliances." Submitted to <em>26th International Multi Topic Conference 2024</em>, in December 2024.</li>
+  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. Paper will be published on IEEE Xplore. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
+  <li>Muhammad Azeem Haider, Ali Asghar Yousuf, Ibrahim Ali Haider, Mohammad Shahid Mehmood. "Short Term Load Forecasting for Legacy Appliances." Submitted to <em>26th International Multi Topic Conference 2024</em>, in December 2024. <a href="https://github.com/muhammadazeemhaider/ElectricityPrediction">[Code]</a></li>
 </ol>
 
 <h3>Academic Presentations</h3>
