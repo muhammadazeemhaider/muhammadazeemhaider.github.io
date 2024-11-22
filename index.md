@@ -13,7 +13,7 @@ h2 {
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 75%;">
     <h2>About Me</h2>
-    <p style="text-align: justify;">Hi, I'm Azeem. I am a computer scientist with a passion for understanding how humans process language and how developing economies function. I graduated from Habib University in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My current research focuses on the application of Artificial Intelligence in healthcare, particularly in addressing language disorders. I also have a deep interest in studying the economics of developing countries and the factors that hinder their progress.</p>
+    <p style="text-align: justify;">Hi, I'm Azeem. I am a computer scientist with a passion for understanding how humans process language and how developing economies function. I graduated from Habib University in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My current research focuses on the application of artificial intelligence in healthcare, particularly in addressing language disorders. I also have a deep interest in studying the economics of developing countries and the factors that hinder their progress.</p>
   </div>
   <div style="width: 35%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black;" alt="Azeem's profile picture">
@@ -21,11 +21,11 @@ h2 {
 </div>
 
 <h2>Research Interest</h2>
-<p style="text-align: justify;">My research interests lie in the domain of computational linguistics and its impact on healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development which is hindered or delayed at times. Additionally, I want to explore the syntactic degeneration in individuals caused by language disorders.</p>
+<p style="text-align: justify;">My research interests lie in the domain of computational linguistics and its impact on healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed. Additionally, I want to explore syntactic degeneration in individuals caused by language disorders.</p>
 
-<p style="text-align: justify;">Additionally, I am intrigued by the health and education economics aspects of development economics, particularly with regard to developing countries. I aim to explore how improvements in healthcare and education can directly impact a nation's economic performance. Coming from Pakistan, where both the health and education systems face significant challenges, I have observed firsthand how these deficiencies hinder economic progress. I am particularly interested in understanding how uplifting healthcare and education in developing countries can foster economic growth, reduce poverty, and contribute to human capital development.</p>
+<p style="text-align: justify;">Beyond these topics, I am fascinated by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individual's manner of thinking and cognition.</p>
 
-<p style="text-align: justify;">Beyond these topics, I am intrigued by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individuals manner of thinking and cognition.</p>
+<p style="text-align: justify;">I am also intrigued by the health and education economics aspects of development economics, particularly in relation to developing countries. I aim to explore how improvements in healthcare and education can directly impact a nation's economic performance. Coming from Pakistan, where both the health and education systems face significant challenges, I have observed firsthand how these deficiencies hinder economic progress. I am particularly interested in understanding how improving healthcare and education in developing countries can foster economic growth, reduce poverty, and contribute to human capital development.</p>
 
 <h2>Publications</h2>
 
