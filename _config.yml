@@ -1,11 +1,18 @@
 title: ""
 
 style: |
-  .site-title, .header, .title, .navbar {
-    border: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
+  /* General reset for header elements */
+  .site-title, .header, .navbar {
+    display: none !important; /* Hides the elements */
   }
-  .site-title:after {
-    content: none !important;
+
+  .header-wrapper, .navbar-wrapper {
+    border: none !important; /* Removes any borders */
+    margin: 0 !important; /* Removes extra margin */
+    padding: 0 !important; /* Removes extra padding */
+  }
+
+  body {
+    margin-top: 0 !important; /* Ensures no margin at the top of the page */
+    padding-top: 0 !important; /* Ensures no padding at the top of the page */
   }
