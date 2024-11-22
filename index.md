@@ -1,13 +1,22 @@
 <style>
-body {
-  background-color: white;
-  color: black;
-}
+  body {
+    background-color: #f4f4f4; /* Change this to your desired background color */
+    color: black;
+    font-family: Arial, sans-serif; /* Optional: to set a default font */
+  }
 
-h2 {
-  text-align: justify;
-}
+  h2 {
+    text-align: justify;
+  }
 
+  a {
+    color: yellow; /* Sets the link text color to yellow */
+    text-decoration: none; /* Removes underlines from links (optional) */
+  }
+
+  a:hover {
+    text-decoration: underline; /* Adds an underline on hover (optional) */
+  }
 </style>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
