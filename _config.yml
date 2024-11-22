@@ -1,1 +1,11 @@
 title: ""
+
+style: |
+  .site-title, .header, .title, .navbar {
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .site-title:after {
+    content: none !important;
+  }
