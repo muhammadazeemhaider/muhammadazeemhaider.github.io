@@ -76,7 +76,7 @@
 <h2>Awards and Grants</h2>
 <ol style="text-align: justify;">
   <li>Recipient of 100% undergraduate merit scholarship (2020-2024) <a href="https://habib.edu.pk/admissions/hutops/" target="_blank">Habib University TOPS Scholar</a></li>
-  <li>Recipient of the <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good scholarship</a> at Hertie School, Germany, valued at £36,500 (Opted not to accept)</li>
+  <li>Recipient of the <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good</a> scholarship at Hertie School, Germany, valued at £36,500 (Opted not to accept)</li>
 </ol>
 
 <h2 style="text-align: justify;">Teaching</h2>
