@@ -102,5 +102,5 @@
 </p>
 
 <p align="center">
-  <em>Updated on November 11, 2024</em>
+  <em>Updated on November 25, 2024</em>
 </p>
