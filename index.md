@@ -7,7 +7,7 @@
   }
 
   body {
-    background-color: black;
+    background-color: #1C1C1D;
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
