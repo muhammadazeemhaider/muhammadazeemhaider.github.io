@@ -14,6 +14,10 @@
     padding: 0;
   }
 
+  h2 + hr {
+  display: none;
+  }
+
   h2 {
     text-align: justify;
     margin-top: 20px;  /* Add spacing between sections */
