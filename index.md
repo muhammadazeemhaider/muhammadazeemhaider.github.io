@@ -50,21 +50,21 @@
 
 <h3> Journal Publication </h3>
 
-<ol style="text-align: justify;">
-  <li><strong>Haider, M. A.</strong> & Sohail, M. & Raza, S. & Siddiqui, M. A. (August, 2024). "Classical Tabla Music Composition with Evolutionary Algorithms." <strong>[Under Review at ACM Transactions on Evolutionary Learning and Optimization]</strong>.</li>
-</ol>
+<ul style="text-align: justify;">
+  <li>Shaikh, H.,<strong> Haider, M. A.</strong> , & Chaudhry, A. <em>(Under review)</em>. Cognition in context: The real-time embodied nature of conceptual simulations. Language and Cognition.</li>
+</ul>
 
-<h3>Peer-Reviewerd Proceedings</h3>
+<h3>Peer-Reviewed Proceedings</h3>
 
-<ol style="text-align: justify;">
+<ul style="text-align: justify;">
   <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. Paper will be published on IEEE Xplore. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
-</ol>
+</ul>
 
 <h3>Academic Presentations</h3>
 
-<ol style="text-align: justify;">
+<ul style="text-align: justify;">
   <li><strong>Haider, M. A.</strong> & Yousuf, A. A. & Haider, I. A. & Mahmood, S. (May, 2024). "Forecasting Electricity for Pakistan." <em>Habib University Dhanani Undergraduate Research Symposium</em>. <a href="https://drive.google.com/file/d/1_Skc__z9kV9kZbt7JCCWqxnovz6k2ltD/view?usp=sharing" target="_blank">[Poster]</a></li>
-</ol>
+</ul>
 
 <h2>Active Research Projects</h2> 
 <ol style="text-align: justify;"> 
@@ -101,5 +101,5 @@
 </p>
 
 <p align="center">
-  <em>Updated on November 25, 2024</em>
+  <em>Updated on April 03, 2025</em>
 </p>
