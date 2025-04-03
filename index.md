@@ -33,7 +33,7 @@
   <div style="width: 75%;">
     <h2>About Me</h2>
     <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research interest lies in understanding the application of artificial intelligence in law, education, and healthcare - particularly in addressing language disorders such as Aphasia. Additionally, I am also interested in understanding and studying the economics of developing countries and the unique factors that hinder their economic progress.</p>
-    <p style="text-align: justify;">Currently I am working as a Machine Learning Engineer at Reon Energy Limited where I am responsible for developing analytical NLP solution for Reon's Energy Management System called SPARK.</p>
+    <p style="text-align: justify;">I am currently working as a Machine Learning Engineer at <a  href="https://reonenergy.com/">Reon Energy Limited</a>, where I work on developing analytical NLP solutions for the company's Energy Management System called SPARK. I'm building natural language interfaces that convert user queries into SQL to retrieve and present relevant data from relational databases. In addition to my NLP work, I engineered and deployed an AI-powered object detection system that monitors personal protective equipment compliance at telecommunication sites, enhancing workplace safety through automated visual inspection.</p>
   </div>
   <div style="width: 35%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black;" alt="Azeem's profile picture">
