@@ -48,19 +48,13 @@
 
 <h2>Publications</h2>
 
-<h3> Journal Publication </h3>
-
 <ul style="text-align: justify;">
   <li>Shaikh, H.,<strong> Haider, M. A.</strong> , & Chaudhry, A. <em>(Under review)</em>. Cognition in context: The real-time embodied nature of conceptual simulations. Language and Cognition.</li>
 </ul>
 
-<h3>Peer-Reviewed Proceedings</h3>
-
 <ul style="text-align: justify;">
-  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>.<a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
+  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
 </ul>
-
-<h3>Academic Presentations</h3>
 
 <ul style="text-align: justify;">
   <li><strong>Haider, M. A.</strong> & Yousuf, A. A. & Haider, I. A. & Mahmood, S. (May, 2024). "Forecasting Electricity for Pakistan." <em>Habib University Dhanani Undergraduate Research Symposium</em>. <a href="https://drive.google.com/file/d/1_Skc__z9kV9kZbt7JCCWqxnovz6k2ltD/view?usp=sharing" target="_blank">[Poster]</a></li>
