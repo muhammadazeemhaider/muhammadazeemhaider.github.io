@@ -36,7 +36,7 @@
     <p style="text-align: justify;">I am currently working as a Machine Learning Engineer at <a  href="https://reonenergy.com/">Reon Energy Limited</a>, where I work on developing analytical NLP solutions for the company's Energy Management System called SPARK. I'm building natural language interfaces that convert user queries into SQL to retrieve and present relevant data from relational databases.</p>
   </div>
   <div style="width: 30%;">
-    <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 35px;" alt="Azeem's profile picture">
+    <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 65px;" alt="Azeem's profile picture">
   </div>
 </div>
 
