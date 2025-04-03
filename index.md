@@ -32,7 +32,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="width: 75%;">
     <h2>About Me</h2>
-    <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I am a computer scientist with a passion for understanding how humans process language and how developing economies function. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My current research focuses on the application of artificial intelligence in healthcare, particularly in addressing language disorders. I also have a deep interest in studying the economics of developing countries and the factors that hinder their progress.</p>
+    <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research interest lies in understanding the application of artificial intelligence in law, education, and healthcare - particularly in addressing language disorders such as Aphasia. Additionally, I am also interested in understanding and studying the economics of developing countries and the unique factors that hinder their economic progress.</p>
   </div>
   <div style="width: 35%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black;" alt="Azeem's profile picture">
@@ -40,17 +40,19 @@
 </div>
 
 <h2>Research Interest</h2>
-<p style="text-align: justify;">My research interests lie in the domain of Artificial Intelligence and its impact on law, education, and healthcare, particularly language disorders. I am interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed. Additionally, I want to explore syntactic degeneration in individuals caused by language disorders.</p>
+<p style="text-align: justify;">I am interested in the application of Artificial Intelligence and its impact on law, education, and healthcare, particularly language disorders. I am interested in working on computational solutions in the domain of natural language processing for language disorders such as Aphasia to explore potential solutions for syntactic-semantic degeneration. I am also interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed.</p>
 
-<p style="text-align: justify;">Beyond these topics, I am fascinated by the evolving nature of online language, which at times feels completely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individual's manner of thinking and cognition.</p>
+<p style="text-align: justify;">Beyond these topics, I am also fascinated by the evolving nature of online language, which at times feels entirely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to computationally analyze and understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individual's manner of thinking and cognition.</p>
 
 <p style="text-align: justify;">I am also intrigued by the health and education economics aspects of development economics, particularly in relation to developing countries. I aim to explore how improvements in healthcare and education can directly impact a nation's economic performance. Coming from Pakistan, where both the health and education systems face significant challenges, I have observed firsthand how these deficiencies hinder economic progress. I am particularly interested in understanding how improving healthcare and education in developing countries can foster economic growth, reduce poverty, and contribute to human capital development.</p>
 
 <h2>Publications</h2>
 
 <ul style="text-align: justify;">
-  <li>Shaikh, H.,<strong> Haider, M. A.</strong> , & Chaudhry, A. <em>(Under review)</em>. Cognition in context: The real-time embodied nature of conceptual simulations. Language and Cognition.</li>
+  <li>Shaikh, H.,<strong> Haider, M. A.</strong> , & Chaudhry, A. "Cognition in context: The real-time embodied nature of conceptual simulations." [Under Review at <em>Language and Cognition</em>]</li>
 </ul>
+
+<!-- <span style="color: yellow;"> </span> -->
 
 <ul style="text-align: justify;">
   <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
