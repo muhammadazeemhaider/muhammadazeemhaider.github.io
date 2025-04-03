@@ -33,6 +33,7 @@
   <div style="width: 75%;">
     <h2>About Me</h2>
     <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research interest lies in understanding the application of artificial intelligence in law, education, and healthcare - particularly in addressing language disorders such as Aphasia. Additionally, I am also interested in understanding and studying the economics of developing countries and the unique factors that hinder their economic progress.</p>
+    <p style="text-align: justify;">Currently I am working as a Machine Learning Engineer at Reon Energy Limited where I am responsible for developing analytical NLP solution for Reon's Energy Management System called SPARK.</p>
   </div>
   <div style="width: 35%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black;" alt="Azeem's profile picture">
@@ -40,7 +41,7 @@
 </div>
 
 <h2>Research Interest</h2>
-<p style="text-align: justify;">I am interested in the application of Artificial Intelligence and its impact on law, education, and healthcare, particularly language disorders. I am interested in working on computational solutions in the domain of natural language processing for language disorders such as Aphasia to explore potential solutions for syntactic-semantic degeneration. I am also interested in the process of language acquisition in children raised in multilingual environments and how this upbringing influences their linguistic development, which is sometimes hindered or delayed.</p>
+<p style="text-align: justify;">I am passionate about exploring Artificial Intelligence's impact on law, education, and healthcare, focusing on language disorders. My research centers on developing computational natural language processing solutions for conditions like Aphasia to address syntactic and semantic degeneration. Additionaly, I am also interested in studying first language acquisition in children growing up in multilingual households, examining how diverse linguistic environments shape their development, including cases where this multilingual context may contribute to temporary hindrances or delays.</p>
 
 <p style="text-align: justify;">Beyond these topics, I am also fascinated by the evolving nature of online language, which at times feels entirely different from natural languages. As communication increasingly relies on memes and online jokes, I seek to computationally analyze and understand the cognitive processes and reasoning behind these new forms of expression, which can reflect an individual's manner of thinking and cognition.</p>
 
