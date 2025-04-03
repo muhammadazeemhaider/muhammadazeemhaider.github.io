@@ -57,7 +57,7 @@
 <h3>Peer-Reviewed Proceedings</h3>
 
 <ul style="text-align: justify;">
-  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. Paper will be published on IEEE Xplore. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
+  <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>.<a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
 </ul>
 
 <h3>Academic Presentations</h3>
@@ -67,16 +67,16 @@
 </ul>
 
 <h2>Active Research Projects</h2> 
-<ol style="text-align: justify;"> 
-  <li><strong>Cognition in Context:</strong> This project investigates the impact of visual context on concept description. Data collection involved interviewing 151 participants, transcribing their responses, and categorizing them. Manuscript to be submitted to Language and Cognition Journal.</li> 
+<ul style="text-align: justify;"> 
+  <li><strong>Composing Classical Tabla music using Evolutionary Algorithms:</strong> Designed and implemented an evolutionary algorithm to generate novel South Asian tabla compositions, optimizing rhythms with a goal-based fitness function to minimize human intervention. Evaluated compositions using domain-specific heuristics and expert feedback.</li> 
   <li><strong>Gendered Impact of Locust Swarms in Ethiopia:</strong> This research investigates the socio-economic impact of locust swarms in Ethiopia, focusing on gender differences. The study employs a difference-in-differences approach to analyze the effects.</li>
-</ol>
+</ul>
 
 <h2>Awards and Grants</h2>
-<ol style="text-align: justify;">
+<ul style="text-align: justify;">
   <li>Recipient of 100% undergraduate merit scholarship (2020-2024) <a href="https://habib.edu.pk/admissions/hutops/" target="_blank">Habib University TOPS Scholar</a></li>
   <li>Recipient of the <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good</a> scholarship at Hertie School, Germany, valued at £36,500 (Opted not to accept)</li>
-</ol>
+</ul>
 
 <h2 style="text-align: justify;">Teaching</h2>
 <ul>
