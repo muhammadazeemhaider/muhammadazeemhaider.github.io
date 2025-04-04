@@ -33,7 +33,7 @@
   <div style="width: 75%;">
     <h2>About Me</h2>
     <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a <strong>BS (Honors) in Computer Science</strong> and a minor in <strong>Electrical and Computer Engineering</strong>. My research interest lies in understanding the application of artificial intelligence in law, education, and healthcare - particularly in addressing language disorders such as Aphasia. Additionally, I am also interested in understanding and studying the economics of developing countries and the unique factors that hinder their economic progress.</p>
-    <p style="text-align: justify;">I am currently working as a Machine Learning Engineer at <a  href="https://reonenergy.com/">Reon Energy Limited</a>, where I work on developing analytical NLP solutions for the company's Energy Management System called SPARK. I am currently working on building natural language interfaces that convert user queries into SQL to retrieve and present relevant data from relational databases.</p>
+    <p style="text-align: justify;">I am currently working as a Machine Learning Engineer at <a  href="https://reonenergy.com/">Reon Energy Limited</a>, where I work on developing analytical NLP solutions for the company's Energy Management System called SPARK. I am currently working on  building natural language interfaces that convert user queries into SQL to retrieve and present relevant data from relational databases.</p>
   </div>
   <div style="width: 30%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 65px;" alt="Azeem's profile picture">
@@ -92,7 +92,7 @@
   <a href="https://github.com/muhammadazeemhaider" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://drive.google.com/file/d/1EMftmGfGzQh7J-Fg0DtQMFqA93ewlBX7/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1-3IUgFkiUu5PExBYrbX8RPWfIR4Zzb8n/view?usp=sharing" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CV-View%20CV-green?style=flat-square&logo=google-drive&logoColor=white" alt="CV">
   </a>
 </p>
