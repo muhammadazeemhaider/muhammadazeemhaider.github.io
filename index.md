@@ -34,7 +34,7 @@
     <h2>About Me</h2>
     <p style="text-align: justify;">Hi, I'm Muhammad Azeem Haider. I am a graduate student at <a href="https://www.cics.umass.edu/"> Manning College for Information and Computer Science</a> at University of Massachusetts Amherst. Previously, I graduated from <a href="https://habib.edu.pk">Habib University</a> in 2024 with a Bachelors of Science in Computer Science and a minor in Electrical and Computer Engineering. After graduation, I worked as a Machine Learning Engineer in the telecommunications industry, where I worked on developing analytical NLP solutions for internal and external stakeholders.
     <br> <br>
-    Currently, I am fascinated by how the brain works and want to learn and understand why it functions the way it does, and how we might replicate some of its abilities that come so naturally to humans. </p>
+    I am fascinated by how the brain works and want to understand how it functions the way it does, as well as how we might replicate the language and cognitive abilities in language models that come so naturally to humans. I am also interested in working with retrieval systems, understanding how retrieval can be improved within generative pipelines, and exploring how sparse retrieval methods can be made more effective and efficient as standalone systems. </p>
   </div>
   <div style="width: 30%;">
     <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 65px;" alt="Azeem's profile picture">
