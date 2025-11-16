@@ -55,8 +55,6 @@
   <li>Shaikh, H.,<strong> Haider, M. A.</strong> , & Chaudhry, A. "Cognition in context: The real-time embodied nature of conceptual simulations." [Under Review at <em>Language and Cognition</em>]</li>
 </ul>
 
-<!-- <span style="color: yellow;"> </span> -->
-
 <ul style="text-align: justify;">
   <li>Hussain, S. M. & <strong>Haider, M. A.</strong> & Habib, Affanullah (August, 2023). "Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach." <em>International Bhurban Conference of Applied Science and Technology</em>. <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a> <a href="https://github.com/muhammadazeemhaider/Suspicious-Activity-Detection-System">[Code]</a></li>
 </ul>
