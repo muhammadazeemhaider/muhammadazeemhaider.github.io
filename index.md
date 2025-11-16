@@ -37,7 +37,7 @@
     Currently, I am fascinated by how the brain works and want to learn and understand why it functions the way it does, and how we might replicate some of its abilities that come so naturally to humans. </p>
   </div>
   <div style="width: 30%;">
-    <img src="Azeem2.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 65px;" alt="Azeem's profile picture">
+    <img src="Azeem.jpg" width="250" style="float: right; border: 2px solid black; margin-top: 65px;" alt="Azeem's profile picture">
   </div>
 </div>
 
