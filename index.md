@@ -89,9 +89,9 @@
   <a href="https://drive.google.com/file/d/1tV9oab7ZWmRE6wKH2bGVCT-eLu3yNPHb/view?usp=sharing" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CV-View%20CV-green?style=flat-square&logo=google-drive&logoColor=white" alt="CV">
   </a>
-  <a href="https://substack.com/@muhammadazeemhaider" target="_blank" style="text-decoration: none;">
+  <!-- <a href="https://substack.com/@muhammadazeemhaider" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Substack-Subscribe-orange?style=flat-square&logo=substack&logoColor=white" alt="Substack">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
