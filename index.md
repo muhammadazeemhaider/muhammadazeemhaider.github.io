@@ -63,10 +63,9 @@
   <li><strong>Haider, M. A.</strong> & Yousuf, A. A. & Haider, I. A. & Mahmood, S. (May, 2024). "Forecasting Electricity for Pakistan." <em>Habib University Dhanani Undergraduate Research Symposium</em>. <a href="https://drive.google.com/file/d/1_Skc__z9kV9kZbt7JCCWqxnovz6k2ltD/view?usp=sharing" target="_blank">[Poster]</a></li>
 </ul>
 
-<h2>Awards and Grants</h2>
+<h2 style="text-align: justify;">Notes</h2>
 <ul style="text-align: justify;">
-  <li>Recipient of 100% undergraduate merit scholarship (2020-2024) <a href="https://habib.edu.pk/admissions/hutops/" target="_blank">Habib University TOPS Scholar</a></li>
-  <li>Recipient of the <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good</a> scholarship at Hertie School, Germany, valued at £36,500 (Opted not to accept)</li>
+  <li><a href="Notes/01.md">Genius - Richard Feynman autobiography</a></li>
 </ul>
 
 <h2 style="text-align: justify;">Teaching</h2>
@@ -74,10 +73,10 @@
   <li>Teaching Assistant at Habib University for Introduction to Data Analytics (Spring 2024)</li>
 </ul>
 
-
-<h2 style="text-align: justify;">Notes</h2>
+<h2>Awards and Grants</h2>
 <ul style="text-align: justify;">
-  <li><a href="Notes/01.md">Genius - Richard Feynman autobiography</a></li>
+  <li>Recipient of 100% undergraduate merit scholarship (2020-2024) <a href="https://habib.edu.pk/admissions/hutops/" target="_blank">Habib University TOPS Scholar</a></li>
+  <li>Recipient of the <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good</a> scholarship at Hertie School, Germany, valued at £36,500 (Opted not to accept)</li>
 </ul>
 
 <br>
