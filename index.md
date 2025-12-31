@@ -74,6 +74,12 @@
   <li>Teaching Assistant at Habib University for Introduction to Data Analytics (Spring 2024)</li>
 </ul>
 
+
+<h2 style="text-align: justify;">Notes</h2>
+<ul style="text-align: justify;">
+  <li><a href="Notes/01.md">Genius - Richard Feynman autobiography</a></li>
+</ul>
+
 <br>
 
 <p align="center">
