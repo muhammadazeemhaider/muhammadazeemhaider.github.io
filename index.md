@@ -20,7 +20,7 @@
   }
 
   a {
-    color: yellow;
+    color: light blue;
     text-decoration: none;
   }
 
