@@ -37,7 +37,7 @@ layout: default
   </div>
 </div>
 
-<h2>Publications</h2>
+<!-- <h2>Publications</h2>
 
 <ul>
   <li>
@@ -65,7 +65,7 @@ layout: default
     <em>Habib University Dhanani Undergraduate Research Symposium</em>.
     <a href="https://drive.google.com/file/d/1_Skc__z9kV9kZbt7JCCWqxnovz6k2ltD/view?usp=sharing" target="_blank">[Poster]</a>
   </li>
-</ul>
+</ul> -->
 
 <h2>Notes</h2>
 <p>
