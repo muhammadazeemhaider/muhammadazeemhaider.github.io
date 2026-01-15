@@ -109,7 +109,7 @@ layout: default
 </div>
 
 <div class="center">
-  <em>Updated on November 16, 2025</em>
+  <em>Updated on January 15th, 2026</em>
 </div>
 
 </main>
