@@ -1,2 +1,5 @@
 name: muhammadazeemhaider
-title: false
+# title: false
+markdown: kramdown
+theme: minima
+baseurl: ""
