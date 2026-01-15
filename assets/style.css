@@ -7,6 +7,34 @@
   box-sizing: border-box;
 } */
 
+.wrapper,
+.container,
+header,
+footer {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+/* Remove borders from body and html */
+html,
+body {
+  border: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove any hr (horizontal rule) elements */
+hr {
+  display: none;
+}
+
+/* Override any Jekyll theme borders */
+* {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
 /* ---------- Base ---------- */
 body {
   background-color: #1C1C1D;
