@@ -73,6 +73,7 @@ layout: default
 </p>
 <ul>
   <li><a href="Notes/01">Genius – Richard Feynman autobiography</a></li>
+  <li><a href="Notes/02">Society of Mind</a></li>
 </ul>
 
 <h2>Teaching</h2>
