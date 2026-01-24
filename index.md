@@ -69,7 +69,7 @@ layout: default
 
 <h2>Notes</h2>
 <p>
-  These are a collection of writings, blogs, book reviews, or just quotes from a book I really liked and thought everyone should read.
+  These are a collection of writings, blogs, book reviews, or just quotes from a book I really liked.
 </p>
 <ul>
   <li><a href="Notes/01">Genius – Richard Feynman autobiography</a></li>
