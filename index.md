@@ -23,7 +23,7 @@ layout: default
 
     <p>
       I am fascinated by how the brain works and want to understand how it
-      functions the way it does, as well as how we might replicate the language
+      functions the way it does, as well as how we might replicate the linguistic
       and cognitive abilities in language models that come so naturally to
       humans. I am also interested in working with retrieval systems,
       understanding how retrieval can be improved within generative pipelines,
@@ -36,6 +36,12 @@ layout: default
     <img src="image.jpeg" alt="Azeem's profile picture">
   </div>
 </div>
+
+<h2>Publications</h2>
+<ul>
+  <li>Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach<a href="https://ieeexplore.ieee.org/document/10712960"> [Paper]</a></li>
+  <li>Automated Generation of Classical Tabla Compositions Using Evolutionary Algorithms<a href="https://ieeexplore.ieee.org/document/11273369"> [Paper]</a> <a href="https://github.com/muhammadazeemhaider/Classical-Tabla-Music-Composition-with-Evolutionary-Algorithms"> [Code]</a></li>
+</ul>
 
 <!-- <h2>Publications</h2>
 
