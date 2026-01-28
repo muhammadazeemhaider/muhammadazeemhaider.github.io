@@ -39,8 +39,8 @@ layout: default
 
 <h2>Publications</h2>
 <ul>
-  <li>Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach<a href="https://ieeexplore.ieee.org/document/10712960"> [Paper]</a></li>
-  <li>Automated Generation of Classical Tabla Compositions Using Evolutionary Algorithms<a href="https://ieeexplore.ieee.org/document/11273369"> [Paper]</a> <a href="https://github.com/muhammadazeemhaider/Classical-Tabla-Music-Composition-with-Evolutionary-Algorithms"> [Code]</a></li>
+  <li>Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a></li>
+  <li>Automated Generation of Classical Tabla Compositions Using Evolutionary Algorithms <a href="https://ieeexplore.ieee.org/document/11273369"> [Paper]</a> <a href="https://github.com/muhammadazeemhaider/Classical-Tabla-Music-Composition-with-Evolutionary-Algorithms">[Code]</a></li>
 </ul>
 
 <!-- <h2>Publications</h2>
