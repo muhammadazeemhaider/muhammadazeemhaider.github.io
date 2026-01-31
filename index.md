@@ -10,7 +10,7 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      Hi, I'm Muhammad Azeem Haider. I am a Masters student at University of Massachusetts Amherst. 
+      Hi, I'm Muhammad Azeem Haider. I am doing my masters in computer science from University of Massachusetts Amherst. 
     </p>
 
     <p>
