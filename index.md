@@ -66,7 +66,7 @@ layout: default
   <a href="https://github.com/muhammadazeemhaider" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-24292f?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1tV9oab7ZWmRE6wKH2bGVCT-eLu3yNPHb/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Vkf36DR5LPv-URxhBoGr6nOFMfkbeoFZ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20CV-green?style=flat-square&logo=google-drive&logoColor=white">
   </a>
 </div>
