@@ -14,7 +14,7 @@ layout: default
     </p>
 
     <p>
-      I’m broadly interested in reasoning and memory in language models, and in agentic approaches to efficient retrieval. Happy to chat about recent work or open problems in this space.
+      I’m broadly interested in reasoning and memory in language models, and in agentic approaches to efficient retrieval.
     </p>
   </div>
 
