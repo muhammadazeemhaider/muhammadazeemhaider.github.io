@@ -19,7 +19,7 @@ layout: default
   </div>
 
   <div class="about-image">
-    <img src="_azeem.jpeg" alt="Azeem's profile picture">
+    <img src="azeem.jpeg" alt="Azeem's profile picture">
   </div>
 </div>
 
