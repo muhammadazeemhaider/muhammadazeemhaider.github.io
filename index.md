@@ -10,7 +10,7 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also advised by <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
+      Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also working with <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
     </p>
     <p>
     I'm broadly interested in reasoning and memory in language models. I find great pleasure in trying to understand both the human brain and large language models, and believe there is real benefit in trying to understand the two side-by-side.
