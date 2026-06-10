@@ -13,7 +13,7 @@ layout: default
       Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also working with <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
     </p>
     <p>
-    I'm broadly interested in reasoning and memory in language models. I find great pleasure in trying to understand both the human brain and large language models, and believe there is real benefit in trying to understand the two side-by-side.
+    I'm broadly interested in reasoning and memory in language models. In particular, I am interested in the relationship between large language models and human cognition, and how insights from one can help advance our understanding of the other. This is a direction I hope to explore further in the future.
     </p>
   </div>
 
