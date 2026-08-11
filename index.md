@@ -13,7 +13,7 @@ layout: default
       Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also working with <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
     </p>
     <p>
-    I'm broadly interested in reasoning and memory in language models. In particular, I am interested in the relationship between large language models and human cognition, and how insights from one can help advance our understanding of the other. This is a direction I hope to explore further in the future.
+    I'm broadly interested in reasoning and memory in humans and language models. In particular, I am interested in the relationship between language models and human cognition, and how insights from one can help advance our understanding of the other. This is a direction I hope to explore further in the future.
     </p>
   </div>
 
@@ -24,11 +24,12 @@ layout: default
 
 <h2>Notes</h2>
 <p>
-  These are a collection of writings, blogs, book reviews, or just quotes from a book I really liked.
+  Quotes from a book, a blogpost or an essay I really liked. Occasionally, something I wrote myself.
 </p>
 <ul>
-  <li><a href="Notes/01">Genius – Richard Feynman autobiography</a></li>
-  <li><a href="Notes/02">Society of Mind</a></li>
+  <li><a href="Notes/01">Genius</a></li>
+  <li><a href="Notes/02">The Society of Mind</a></li>
+  <li><a href="https://nsaphra.net/post/uncanny/" rel="noopener">Life on the Uncanny Precipice</a> ↗</li>
 </ul>
 
 <h2>Publications</h2>
