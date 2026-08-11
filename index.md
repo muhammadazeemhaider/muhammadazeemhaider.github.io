@@ -54,6 +54,10 @@ layout: default
     <a href="https://www.hertie-school.org/en/study/data-for-good-scholarship" target="_blank">Data for Good</a>
     scholarship at Hertie School, Germany, valued at £36,500 (Opted not to accept)
   </li>
+  <li>
+    Recipient of the
+    <a href="https://www.ukaadc.com/" target="_blank">University of Karachi Alumni Association Scholarship</a>
+  </li>
 </ul>
 
 <div class="center">
