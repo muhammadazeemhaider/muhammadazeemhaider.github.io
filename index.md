@@ -30,6 +30,7 @@ layout: default
   <li><a href="Notes/01">Genius</a></li>
   <li><a href="Notes/02">The Society of Mind</a></li>
   <li><a href="https://nsaphra.net/post/uncanny/" rel="noopener">Life on the Uncanny Precipice</a> ↗</li>
+  <li>UMass Amherst wrote an <a href="https://www.cics.umass.edu/stories/azeem-haider" rel="noopener">article</a> about my experience. </li>
 </ul>
 
 <h2>Publications</h2>
