@@ -3,12 +3,19 @@ layout: default
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
+<script src="/assets/theme.js"></script>
 
 <main>
 
 <div class="about-container">
   <div class="about-text">
     <h2>About Me</h2>
+    <div class="contact">
+      <a href="mailto:haiderazeem27@gmail.com">email</a>
+      <span class="sep">|</span><a href="https://drive.google.com/file/d/1Vkf36DR5LPv-URxhBoGr6nOFMfkbeoFZ/view?usp=sharing" target="_blank">cv</a>
+      <span class="sep">|</span><a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank">linkedin</a>
+      <span class="sep">|</span><a href="https://github.com/muhammadazeemhaider" target="_blank">github</a>
+    </div>
     <p>
       Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also working with <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
     </p>
@@ -30,10 +37,10 @@ layout: default
   <li><a href="Notes/01">Genius</a></li>
   <li><a href="Notes/02">The Society of Mind</a></li>
   <li><a href="https://nsaphra.net/post/uncanny/" rel="noopener">Life on the Uncanny Precipice</a> ↗</li>
-  <li>UMass Amherst wrote an <a href="https://www.cics.umass.edu/stories/azeem-haider" rel="noopener">article</a> about my experience. </li>
+  <li>I was featured in a <a href="https://www.cics.umass.edu/stories/azeem-haider" rel="noopener">UMass Amherst story</a> about my journey.</li>
 </ul>
 
-<h2>Publications</h2>
+<h2>Publications from Undergrad</h2>
 <ul>
   <li>Automated Video Summarization for Suspicious Event Detection in Surveillance Systems: A Pipeline Approach <a href="https://ieeexplore.ieee.org/document/10712960">[Paper]</a></li>
   <li>Automated Generation of Classical Tabla Compositions Using Evolutionary Algorithms <a href="https://ieeexplore.ieee.org/document/11273369"> [Paper]</a> <a href="https://github.com/muhammadazeemhaider/Classical-Tabla-Music-Composition-with-Evolutionary-Algorithms">[Code]</a></li>
@@ -62,22 +69,7 @@ layout: default
 </ul>
 
 <div class="center">
-  <a href="mailto:haiderazeem27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-haiderazeem27%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-M.%20Azeem%20Haider-0077b5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/muhammadazeemhaider" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-muhammadazeemhaider-24292f?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/1Vkf36DR5LPv-URxhBoGr6nOFMfkbeoFZ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV-View%20CV-green?style=flat-square&logo=google-drive&logoColor=white">
-  </a>
-</div>
-
-<div class="center">
-  <em>Updated on June 7th, 2026</em>
+  <em>Updated on November 26th, 2026</em>
 </div>
 
 </main>
