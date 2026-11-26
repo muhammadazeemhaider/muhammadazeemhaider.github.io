@@ -10,12 +10,7 @@ layout: default
 <div class="about-container">
   <div class="about-text">
     <h2>About Me</h2>
-    <div class="contact">
-      <a href="mailto:haiderazeem27@gmail.com">email</a>
-      <span class="sep">|</span><a href="https://drive.google.com/file/d/1Vkf36DR5LPv-URxhBoGr6nOFMfkbeoFZ/view?usp=sharing" target="_blank">cv</a>
-      <span class="sep">|</span><a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank">linkedin</a>
-      <span class="sep">|</span><a href="https://github.com/muhammadazeemhaider" target="_blank">github</a>
-    </div>
+    <div class="contact"><a href="mailto:haiderazeem27@gmail.com">email</a><span class="sep">|</span><a href="https://drive.google.com/file/d/1Vkf36DR5LPv-URxhBoGr6nOFMfkbeoFZ/view?usp=sharing" target="_blank">cv</a><span class="sep">|</span><a href="https://www.linkedin.com/in/muhammad-azeem-haider" target="_blank">linkedin</a><span class="sep">|</span><a href="https://github.com/muhammadazeemhaider" target="_blank">github</a></div>
     <p>
       Hi, I'm Muhammad Azeem Haider. I am a master's student in computer science at the University of Massachusetts Amherst. I am a student researcher at the <a href="https://ciir.cs.umass.edu/" target="_blank">Center for Intelligent Information Retrieval</a> and am currently also working with <a href="https://people.cs.umass.edu/~hava/" target="_blank">Prof. Hava Siegelmann</a>. 
     </p>

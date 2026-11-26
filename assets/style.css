@@ -37,19 +37,19 @@ hr {
 
 /* ---------- Theme ---------- */
 :root {
-  --bg: #1C1C1D;
-  --text: #ffffff;
-  --muted: #9a9a9a;
-  --link: #4ea1ff;
-  --link-hover: yellow;
+  --bg: #1b1c1e;
+  --text: #e6e4e0;
+  --muted: #8f8c87;
+  --link: #7fb0e8;
+  --link-hover: #a9cbf2;
 }
 
 :root[data-theme="light"] {
-  --bg: #fdfdfb;
-  --text: #1C1C1D;
-  --muted: #777777;
-  --link: #0b5cad;
-  --link-hover: #b8860b;
+  --bg: #faf8f3;
+  --text: #2a2a2a;
+  --muted: #7a766f;
+  --link: #1f5c99;
+  --link-hover: #14406d;
 }
 
 /* ---------- Base ---------- */
@@ -136,7 +136,7 @@ a:hover {
 
 .contact a {
   color: var(--link);
-  font-weight: bold;
+  font-size: 1.05em;
 }
 
 .contact a:hover {
@@ -144,7 +144,8 @@ a:hover {
 }
 
 .contact .sep {
-  margin: 0 6px;
+  margin: 0 10px;
+  color: var(--muted);
 }
 
 /* ---------- Theme toggle ---------- */
